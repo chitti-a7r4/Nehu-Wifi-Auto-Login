@@ -17,8 +17,8 @@ You can download the latest builds from the [Releases](../../releases) section.
 
 | Version               | File Name                        | Browser Required |
 |-----------------------|----------------------------------|------------------|
-| Windows – Edge        | `NEHU_WiFi_AutoLogin_Edge.exe`   | Microsoft Edge (preinstalled) |
-| Windows – Chrome      | `NEHU_WiFi_AutoLogin_Chrome.exe` | Google Chrome    |
+| Windows – Edge        | `NEHU_WiFi_Setup.exe`            | Microsoft Edge (preinstalled) |
+| Windows – Chrome      | `NEHU_WiFi_Setup_Chrome.exe`     | Google Chrome    |
 
 ---
 
@@ -46,8 +46,7 @@ You can download the latest builds from the [Releases](../../releases) section.
 ## 🖥 PC Version Notes
 
 - Works on **Windows 10/11**
-- Uses **Microsoft Edge WebDriver** — no need to install Chrome!
-- Auto-launches and logs in with a trayless background process
+- Uses **Microsoft Edge WebDriver** by default (Chrome version also available)
 - Credentials are stored **securely and encrypted** under: C:\Users<you>\AppData\Local\NEHU_WiFi\
 
 > Tip: Run the installer, enter your credentials once, and you're set!
