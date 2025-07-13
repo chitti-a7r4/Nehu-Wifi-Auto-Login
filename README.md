@@ -1,50 +1,86 @@
 # NEHU Wi-Fi Auto Login
 
-A simple and lightweight Android app that **automatically logs in to the NEHU Wi-Fi portal** without requiring manual entry every time.
+A simple and lightweight tool that **automatically logs in to the NEHU Wi-Fi captive portal**, available for both **Android** and **Windows PC**.
 
-This repository is **APK-only. The source code is currently closed.**
+This repository currently offers **APK and EXE builds only**.  
+The source code is **closed** for now.
 
 ---
 
 ## 📥 Download
 
-You can download the latest APK from the [Releases](../../releases) section.
+You can download the latest builds from the [Releases](../../releases) section.
 
-**Latest Version:** v1.0.0  
-**Last Updated:** 05-07-2025
+| Platform | File         | Version | Updated     |
+|----------|--------------|---------|-------------|
+| Android  | `.apk`       | v1.0.0  | 05-07-2025  |
+
+| Version               | File Name                        | Browser Required |
+|-----------------------|----------------------------------|------------------|
+| Windows – Edge        | `NEHU_WiFi_AutoLogin_Edge.exe`   | Microsoft Edge (preinstalled) |
+| Windows – Chrome      | `NEHU_WiFi_AutoLogin_Chrome.exe` | Google Chrome    |
 
 ---
 
 ## 🚀 Features
-- Auto-login to NEHU Wi-Fi captive portal
-- One-time credential setup
-- Background login support
-- Clean, lightweight, and battery-friendly
-- Made specifically for NEHU students
+
+✅ One-time credential setup  
+✅ Auto-login to NEHU Wi-Fi captive portal  
+✅ Works in background (Android)  
+✅ Silent tray execution (PC)  
+✅ Credentials stored securely (encrypted on PC)  
+✅ Lightweight, clean, and fast  
+✅ Tailored for NEHU campus network
 
 ---
 
+## 🔐 Security & Privacy
+
+- **Credentials are stored only on your device:**
+  - 🔒 Encrypted with AES on PC (`AppData\Local\NEHU_WiFi`)
+  - 🔒 Kept locally on Android (no server interaction)
+- No ads, no trackers, no data collection.
+
+---
+
+## 🖥 PC Version Notes
+
+- Works on **Windows 10/11**
+- Uses **Microsoft Edge WebDriver** — no need to install Chrome!
+- Auto-launches and logs in with a trayless background process
+- Credentials are stored **securely and encrypted** under: C:\Users<you>\AppData\Local\NEHU_WiFi\
+
+> Tip: Run the installer, enter your credentials once, and you're set!
+- Requires:
+- Edge browser (already preinstalled)
+---
+
 ## 🔒 Disclaimer
-This app is developed independently by Shiva Sai Naluvala and is **not officially affiliated with NEHU's IT department.**  
-All login credentials are securely stored locally on the user's device and are never shared externally.
+
+This tool is developed independently by **Shiva Sai Naluvala** and is **not affiliated with NEHU’s IT department.**  
+Use at your own discretion. This is meant to **help fellow students** save time during login.
 
 ---
 
 ## 💬 Support & Feedback
-If you face any issues or have suggestions, feel free to contact me:
-- **Email:** shivasainaluvala@gmail.com
+
+Have suggestions or facing issues? Reach out!
+
+- 📧 **Email:** [shivasainaluvala@gmail.com](mailto:shivasainaluvala@gmail.com)
 
 ---
 
 ## ❤️ Support My Work
-If you find this app useful, you can support me via UPI donations.
 
-**UPI ID:** `chitticoc@ybl`
+If you find this app useful, you can support me via UPI:
 
-Thank you for your support! 🙏
+> **UPI ID:** `chitticoc@ybl`
+
+Your support keeps student-built tools like this alive 🙏
 
 ---
 
 ## 📢 Notes
-- The APKs provided here are for **personal use by NEHU students only.**
-- Please avoid sharing old versions once newer updates are available.
+
+- These builds are for **personal use by NEHU students only**
+- Avoid sharing outdated versions once newer builds are available
