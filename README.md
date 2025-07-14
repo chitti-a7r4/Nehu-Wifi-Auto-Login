@@ -17,7 +17,7 @@ You can download the latest builds from the [Releases](../../releases) section.
 | **Linux**           | `linux.zip`                     | v0.9.0  | 05-07-2025  | Firefox / Chrome             | 🧪 **Under Testing**  |
 | **macOS**           | `macos.zip`                     | v0.9.0  | 05-07-2025  | Safari / Chrome              | 🧪 **Under Testing**  |
 
-> ⚠️ *Linux and macOS builds are located in their respective folders.*
+> ⚠️ *Linux and macOS builds are under Testing*
 
 ## 🚀 Features
 ✅ **One-time credential setup** - Enter once, use forever  
