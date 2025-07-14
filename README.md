@@ -6,9 +6,6 @@ This repository currently offers **APK and EXE builds only**. The source code is
 ## 📥 Download
 You can download the latest builds from the [Releases](../../releases) section.
 
-## 📥 Download
-You can download the latest builds from the [Releases](../../releases) section.
-
 | Platform            | File                         | Version | Updated     | Browser Required             | Status              |
 |---------------------|------------------------------|---------|-------------|------------------------------|----------------------|
 | **Android**         | `.apk`                       | v1.0.0  | 05-07-2025  | Built-in WebView             | ✅ **Stable**         |
