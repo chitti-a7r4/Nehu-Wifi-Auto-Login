@@ -14,8 +14,8 @@ You can download the latest builds from the [Releases](../../releases) section.
 | **Android**         | `.apk`                       | v1.0.0  | 05-07-2025  | Built-in WebView             | ✅ **Stable**         |
 | **Windows – Edge**  | `NEHU_WiFi_Setup.exe`        | v1.0.0  | 05-07-2025  | Microsoft Edge (preinstalled) | ✅ **Stable**         |
 | **Windows – Chrome**| `NEHU_WiFi_Setup_Chrome.exe` | v1.0.0  | 05-07-2025  | Google Chrome                | ✅ **Stable**         |
-| **Linux**           | `linux/`                     | v0.9.0  | 05-07-2025  | Firefox / Chrome             | 🧪 **Under Testing**  |
-| **macOS**           | `macos/`                     | v0.9.0  | 05-07-2025  | Safari / Chrome              | 🧪 **Under Testing**  |
+| **Linux**           | `linux.zip`                     | v0.9.0  | 05-07-2025  | Firefox / Chrome             | 🧪 **Under Testing**  |
+| **macOS**           | `macos.zip`                     | v0.9.0  | 05-07-2025  | Safari / Chrome              | 🧪 **Under Testing**  |
 
 > ⚠️ *Linux and macOS builds are located in their respective folders.*
 
